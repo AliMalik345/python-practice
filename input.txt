@@ -1,0 +1,95 @@
+Full job description
+Job Req ID: 113365TypeScript/JavaScript Developer
+
+The Bloomberg Center for Government Excellence at Johns Hopkins University (GovEx or the Center) seeks to hire a TypeScript/JavaScript Developer to join our team of government, data, and performance practice experts to support senior government leaders across the United States, Canada, and Latin America to use data to get better results for resident.
+
+In this role, you will contribute to meaningful projects that improve residents' lives while collaborating with a passionate team committed to excellence and innovation. Your primary focus is to support, evolve, and improve current web products that help local governments easily access data for informed decision-making. You will also be part of new project developments across the whole team product portfolio. With your expertise in web technologies and a passion for collaboration and experimentation, you will play a vital role in contributing to the development of captivating and innovative user experiences.
+
+Since 2015, GovEx has supported over 10,000 public sector leaders in 37 countries, and over 568 cities, counties, and states by providing coaching and technical assistance; research and analytics; training and capacity building; and human resource support. GovEx is a recognized leader in the provision of public sector training to upskill employees and improve data practices through self-guided courses and instructor-facilitated learning.
+
+GovEx is committed to addressing structural and entrenched racism and recognizes the public sector’s role in perpetuating these legacies. We are looking for candidates committed to dismantling structural and entrenched racism and addressing these issues as we promote this work in communities. For more information about GovEx, please visit https://govex.jhu.edu/.
+
+Specific Duties & Responsibilities
+
+Design, develop, and deploy TS/JS software solutions.
+Collaborate closely with GovEx colleagues to continuously evolve our web products, enhancing accessibility, functionality, and design to meet the needs of local governments.
+Lead the development of new features from concept to deployment, fostering a culture of innovation and collaboration.
+Work alongside other software engineers and cross-functional teams, including Johns Hopkins University IT, to integrate solutions seamlessly with existing cloud and enterprise services.
+May perform other duties as assigned.
+Special Knowledge, Skills, & Abilities
+
+Three to Five years of experience in HTML, CSS, TypeScript, and JavaScript.
+Proficiency on the best practices to support highly accessible, multilingual, and performant websites is a must, i.e. HTML5, CSS3, and ECMAScript 6, WCAG 2, and W3C i18n.
+2 years experience with React/NextJS or similar relevant and globally supported progressive web application framework—supporting both server-side and client side applications (e.g. Vue, Svelte, or Angular).
+Experience working with GraphQL.
+Understanding of mobile-first design principles and implementation.
+Familiarity with CSS preprocessors, bundlers, and associated languages, syntaxes, and libraries (e.g., Sass, Less, and webpack).
+Proficiency with git, git flow, and GitHub.
+Proficiency in utilizing task management systems, such as Asana, to organize and track project tasks, milestones, and deadlines effectively.
+Willingness to learn new technologies.
+Familiarity with the following are a plus:
+Figma.
+Headless CMS tools like Strapi.
+Data visualization libraries and tools, such as d3, plotly, leaflet, mapbox, and datawrapper.
+Relevant back-end programming language, and languages used for data analytics (e.g., Python or R).
+Minimum Qualifications
+
+Bachelor's Degree.
+Five years related experience.
+Direct programming experience while pursuing education may count towards related experience. Significant undergraduate programming coursework or independent project can be considered as related experience.
+Additional education may substitute for required experience and additional related experience may substitute for required education, to the extent permitted by the JHU equivalency formula.
+Preferred Qualifications
+
+Five years of professional experience in web support, web development, or a similar role, preferably in a fast-paced and dynamic environment.
+Classified Title: Software Engineer
+Job Posting Title (Working Title): TypeScript/JavaScript Developer
+Role/Level/Range: ATP/04/PE
+Starting Salary Range: $72,600 - $127,000 Annually ($90,000 targeted; Commensurate with experience)
+Employee group: Full Time
+Schedule: Monday-Friday 8am-5:30pm
+Exempt Status: Exempt
+Location: Homewood Campus
+Department name: ​​​​​​​Ctrs for Govt Excellence & Public Innova
+Personnel area: Academic and Business Centers
+
+Total Rewards
+The referenced salary range is based on Johns Hopkins University’s good faith belief at the time of posting. Actual compensation may vary based on factors such as geographic location, work experience, market conditions, education/training and skill level. Johns Hopkins offers a total rewards package that supports our employees' health, life, career and retirement. More information can be found here: https://hr.jhu.edu/benefits-worklife/.
+
+Please refer to the job description above to see which forms of equivalency are permitted for this position. If permitted, equivalencies will follow these guidelines: JHU Equivalency Formula: 30 undergraduate degree credits (semester hours) or 18 graduate degree credits may substitute for one year of experience. Additional related experience may substitute for required education on the same basis. For jobs where equivalency is permitted, up to two years of non-related college course work may be applied towards the total minimum education/experience required for the respective job.
+
+**Applicants who do not meet the posted requirements but are completing their final academic semester/quarter will be considered eligible for employment and may be asked to provide additional information confirming their academic completion date.
+
+The successful candidate(s) for this position will be subject to a pre-employment background check. Johns Hopkins is committed to hiring individuals with a justice-involved background, consistent with applicable policies and current practice. A prior criminal history does not automatically preclude candidates from employment at Johns Hopkins University. In accordance with applicable law, the university will review, on an individual basis, the date of a candidate's conviction, the nature of the conviction and how the conviction relates to an essential job-related qualification or function.
+
+The Johns Hopkins University values diversity, equity and inclusion and advances these through our key strategic framework, the JHU Roadmap on Diversity and Inclusion.
+
+Equal Opportunity Employer
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+EEO is the Law:
+https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf
+
+Accommodation Information
+If you are interested in applying for employment with The Johns Hopkins University and require special assistance or accommodation during any part of the pre-employment process, please contact the Talent Acquisition Office at jhurecruitment@jhu.edu. For TTY users, call via Maryland Relay or dial 711. For more information about workplace accommodations or accessibility at Johns Hopkins University, please visit https://accessibility.jhu.edu/.
+
+Johns Hopkins has mandated COVID-19 and influenza vaccines, as applicable. The COVID-19 vaccine does not apply to positions located in the State of Florida. Exceptions to the COVID and flu vaccine requirements may be provided to individuals for religious beliefs or medical reasons. Requests for an exception must be submitted to the JHU vaccination registry. For additional information, applicants for SOM positions should visit https://www.hopkinsmedicine.org/coronavirus/covid-19-vaccine/ and all other JHU applicants should visit https://covidinfo.jhu.edu/health-safety/covid-vaccination-information/.
+
+The following additional provisions may apply, depending upon campus. Your recruiter will advise accordingly.
+
+The pre-employment physical for positions in clinical areas, laboratories, working with research subjects, or involving community contact requires documentation of immune status against Rubella (German measles), Rubeola (Measles), Mumps, Varicella (chickenpox), Hepatitis B and documentation of having received the Tdap (Tetanus, diphtheria, pertussis) vaccination. This may include documentation of having two (2) MMR vaccines; two (2) Varicella vaccines; or antibody status to these diseases from laboratory testing. Blood tests for immunities to these diseases are ordinarily included in the pre-employment physical exam except for those employees who provide results of blood tests or immunization documentation from their own health care providers. Any vaccinations required for these diseases will be given at no cost in our Occupational Health office.
+
+Job Type: Full-time
+
+Pay: $72,600.00 - $127,000.00 per year
+
+Benefits:
+
+Health insurance
+Experience level:
+
+5 years
+Schedule:
+
+8 hour shift
+Work Location: In person
+

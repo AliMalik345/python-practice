@@ -1,0 +1,5 @@
+Date,Product,Price,Quantity
+2024-05-01,Apple,2.50,10
+2024-05-01,Banana,1.00,20
+2024-05-02,Apple,2.50,15
+2024-05-02,Orange,3.00,12
